@@ -2,6 +2,8 @@ package ayman.problemsolving.com;
 
 public class LongestCommonPrefix {
 
+    // https://leetcode.com/problems/longest-common-prefix/
+
     public String longestCommonPrefix(String[] strs) {
         if(strs == null)
             return "";
